@@ -16,3 +16,11 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/trueborix21-crypto).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Ember Vale
+
+A complete, dependency-free 2D platform adventure. Open `index.html` in a browser or serve this folder with any static web server.
+
+- **Desktop:** move with ← / → or A / D; jump with Space, ↑, or W.
+- **Phone / tablet:** use the on-screen arrows and Jump button.
+- Collect sunstones, stomp the roaming critters, cross the gaps, and reach the temple gate. You can toggle sound with the music button.
